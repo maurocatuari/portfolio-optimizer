@@ -1,0 +1,6 @@
+[
+  {"ticker": "SPY",  "name": "S&P 500 ETF",         "type": "ETF"},
+  {"ticker": "QQQ",  "name": "Nasdaq 100 ETF",       "type": "ETF"},
+  {"ticker": "AGG",  "name": "Bond Aggregate ETF",   "type": "Bond"},
+  {"ticker": "GLD",  "name": "Gold ETF",             "type": "Commodity"}
+]
